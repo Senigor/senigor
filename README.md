@@ -1,4 +1,4 @@
-<a href="https://senigor.github.io/portfolio/">
+<a href="https://www.idudchenko.com">
   <img src="https://raw.githubusercontent.com/Senigor/senigor/master/banner.png" />
 </a>
 
@@ -22,7 +22,7 @@ I'm a **Software Engineer** (mostly backend) with almost 5 years of commercial e
 - 👯 I’m looking to collaborate to interesting projects
 - 🤔 I’m looking for help with FE technologies
 - 💬 Ask me about Python, FastAPI, DDD, asyncio, Docker, AWS, CI/CD
-- 📙 Check out my [Portfolio](https://senigor.github.io/portfolio/)
+- 📙 Check out my [Portfolio](https://www.idudchenko.com)
 - 📫 If you have any question/feedback, please do not hesitate to reach out to me!
 - 🎉 Fun-Fact: The average smartphone today has more computing power than NASA's entire computer systems used during the Apollo moon missions in the 1960s. 🚀📱 <br/><br/>
 
